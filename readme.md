@@ -84,12 +84,6 @@ Este curso de Machine Learning está diseñado para proporcionar a los estudiant
   - Scikit-Learn
   - Matplotlib y Seaborn
 
-## Instructores
-
-- **Nombre del Instructor:** [Nombre del Instructor]
-  - **Descripción:** [Breve descripción del instructor]
-  - **Enlace al perfil:** [Enlace al perfil del instructor en Udemy]
-
 ## Contacto
 
 Para más información, preguntas o comentarios, puedes contactarnos a través de:
